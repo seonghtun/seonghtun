@@ -22,3 +22,4 @@ Here are some ideas to get you started:
 ![Endpoint Badge](https://img.shields.io/endpoint)
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 <img src="https://img.shields.io/badge/lafishin-242424?style=for-the-badge&logo=42&logoColor=White">
+<img src="https://img.shields.io/badge/jira-use-2D2D2D?style=for-the-badge&logo=jira&logoColor=White">
