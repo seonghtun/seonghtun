@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 -->
 
 ![Endpoint Badge](https://img.shields.io/endpoint)
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
