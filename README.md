@@ -1,25 +1,76 @@
+# 공공자전거 대여 서비스 구현
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header&text=seonghtun&fontSize=90)
-### Hi there 👋
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
+<br>
 
-### Hello deer
-<!--
-**seonghtun/seonghtun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
 
-Here are some ideas to get you started:
+<br><br>
+![1차프로젝트_로고](https://github.com/seonghtun/seonghtun/assets/74886046/2107b189-f5ca-440c-afa4-515e0c2bd7bd)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-![Endpoint Badge](https://img.shields.io/endpoint)
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-<img src="https://img.shields.io/badge/lafishin-242424?style=for-the-badge&logo=42&logoColor=White">
-<img src="https://img.shields.io/badge/jira use-000000?style=for-the-badge&logo=jira&logoColor=blue">
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Google PlayStore-414141?style=flat-square&logo=Google Play&logoColor=white"/>
+
+<br>
+
+## Getting Started / 어떻게 시작하나요?
+
+이 곳에서 설치에 관련된 이야기를 해주시면 좋습니다.
+
+### Prerequisites / 선행 조건
+
+아래 사항들이 설치가 되어있어야합니다.
+
+```
+예시
+```
+
+### Installing / 설치
+
+아래 사항들로 현 프로젝트에 관한 모듈들을 설치할 수 있습니다.
+
+```
+예시
+```
+
+## Running the tests / 테스트의 실행
+
+어떻게 테스트가 이 시스템에서 돌아가는지에 대한 설명을 합니다
+
+### 테스트는 이런 식으로 동작합니다
+
+왜 이렇게 동작하는지, 설명합니다
+
+```
+예시
+```
+
+### 테스트는 이런 식으로 작성하시면 됩니다
+
+```
+예시
+```
+
+## Deployment / 배포
+
+Add additional notes about how to deploy this on a live system / 라이브 시스템을 배포하는 방법
+
+## Built With / 누구랑 만들었나요?
+
+* [이름](링크) - 무엇 무엇을 했어요
+* [Name](Link) - Create README.md
+
+## Contributiong / 기여
+
+Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us. / [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) 를 읽고 이에 맞추어 pull request 를 해주세요.
+
+## License / 라이센스
+
+This project is licensed under the MIT License - see the [LICENSE.md](https://gist.github.com/PurpleBooth/LICENSE.md) file for details / 이 프로젝트는 MIT 라이센스로 라이센스가 부여되어 있습니다. 자세한 내용은 LICENSE.md 파일을 참고하세요.
+
+## Acknowledgments / 감사의 말
+
+* Hat tip to anyone whose code was used / 코드를 사용한 모든 사용자들에게 팁
+* Inspiration / 영감
+* etc / 기타
