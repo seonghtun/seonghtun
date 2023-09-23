@@ -4,4 +4,4 @@
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
 <img src="https://img.shields.io/badge/Google PlayStore-414141?style=flat-square&logo=Google Play&logoColor=white"/>
 
-![seonghtun's GitHub stats](https://github-readme-stats.vercel.app/api?username=seonghtun&show_icons=true&theme=dark)
+![seonghtun's GitHub stats](https://github-readme-stats.vercel.app/api?username=seonghtun&show_icons=true&theme=shadow_green)
